@@ -55,6 +55,7 @@ def handle_updates(updates):
         items = rmd.get_items()
         if text == "/finish":
             fsm.complete()
+            print(fsm.current)
             keyboard = build_keyboard(items)
             send_message("select a task you completed,if nothing enter 'Ok'", chat, keyboard)
         elif text in items:
