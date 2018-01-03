@@ -8,3 +8,5 @@
 + 輸入"要添加的任務(ex:meeting with Dr.Wu)" ， 輸入完畢後bot會幫你加入任務清單中
 + 完成任務後，輸入"/finish" ， bot會顯示出目前清單中的所有任務，選擇完成的任務進行刪除
 + 完成一輪輸入輸出之後，bot會進入睡眠，需要時再以"Hi"呼叫
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo 標題文字範例一")
